@@ -1,10 +1,10 @@
 # Hello 👋
 
-- 🧭 Currently in software developer training program.
-- 🖥️ Full stack seems to be my jam, can't decide between front and back.
+- 🎯 I got hired as Junior Software Developer after training program at Visma!
+- 🖥️ Full stack interests me greatly but currently leaning more to frontend and React
 - 💡 You can find me under MikkisGuy nickname all over the internet.
 
-I do developing streams on week days (mainly in finnish):
+I do developing streams randomly on week days (mainly in finnish):
 
 [![Twitch Status](https://img.shields.io/twitch/status/mikkisguy?style=social)](https://www.twitch.tv/mikkisguy)
 
