@@ -1,6 +1,6 @@
 # Hello 👋
 
-- 🎯 I got hired as Junior Software Developer after training program at Visma!
+- 🎯 Recently I got hired as Junior Software Developer after training program at Visma!
 - 🖥️ Full stack interests me greatly but currently leaning more to frontend and React
 - 💡 You can find me under MikkisGuy nickname all over the internet.
 
