@@ -1,6 +1,6 @@
 # Hello 👋
 
-- 🎯 I work as Junior Software Developer at Visma Solutions Oy
+- 🎯 Open for hire!
 - 🖥️ Full stack interests me greatly but currently leaning more to frontend and React
 - 💡 You can find me under MikkisGuy nickname all over the internet.
 
