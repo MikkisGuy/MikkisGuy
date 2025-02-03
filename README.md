@@ -4,10 +4,6 @@
 - 🖥️ Full stack interests me greatly but currently leaning more to frontend and React
 - 💡 You can find me under MikkisGuy nickname all over the internet.
 
-I do developing streams randomly on week days (mainly in finnish):
-
-[![Twitch Status](https://img.shields.io/twitch/status/mikkisguy?style=social)](https://www.twitch.tv/mikkisguy)
-
 ### Stats are cool ⚡
 
 [![Mikko's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikkisguy&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
